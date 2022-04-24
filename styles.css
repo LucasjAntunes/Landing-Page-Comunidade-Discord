@@ -20,3 +20,24 @@ body {
     justify-content: space-around;
     padding: 24px;
 }
+
+.cabecalho-imagem {
+    height: 72px;
+}
+
+.cabecalho-menu {
+    display: flex;
+    gap: 32px;
+}
+
+.cabecalho-item {
+    font-family: 'Sarala';
+    color: aliceblue;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.conteudo {
+    margin-bottom: 48px;
+    border-top: 0.4px solid aliceblue;
+}
