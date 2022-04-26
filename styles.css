@@ -71,7 +71,7 @@ body {
 }
 
 .conteudo-principal-escrito-titulo-botao {
-    background-color: aliceblue;
+    background-color: orange;
     width: 180px;
     height: 60px;
     border: none;
@@ -80,7 +80,7 @@ body {
     font-family:'Sarala', sans-serif;
     font-weight: 400;
     font-size: 24px;
-    color: #2F2325;
+    color: rgb(28, 25, 25);
 }
 
 
